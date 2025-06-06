@@ -1,0 +1,8 @@
+._build
+src/._.DS_Store
+src/._index.html
+src/._main.js
+src/._package-lock.json
+src/._package.json
+src/.DS_Store
+build/._Markdown Editor-1.0.0.dmg
